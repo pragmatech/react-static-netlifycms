@@ -5,6 +5,7 @@ body {
   font-size: 16px;
   margin: 0;
   padding: 0;
+  color: rgb(122, 122, 122);
 }
 
 a {
@@ -29,7 +30,7 @@ nav a {
 }
 
 .content {
-  padding: 1rem;
+  padding: 0rem;
 }
 .image {
   width: 25%;
